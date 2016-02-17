@@ -1,0 +1,6 @@
+*.swp
+*~
+*.py[cod]
+doc
+env
+.svn
